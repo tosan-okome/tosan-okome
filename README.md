@@ -1,3 +1,4 @@
+<!--I can't help the long header-->
 ## Hi there! I’m Tosan—a nurse by training, a data enthusiast by passion, and a lifelong learner at heart. 🩺📊
 
 ### 🌟 About Me
@@ -6,15 +7,17 @@
 
 📈 **Tech Tools**: Proficient in R, Excel, and statistics, exploring Python and SQL.
 
-🤝 **Open Source Advocate**: Leads CHAOSS Africa Researchers, tackling open-source issues in Africa.
+🤝 **Open Source Advocate**: Leads CHAOSS Africa Researchers, tackling
+open-source issues in Africa.
 
 💡 **Interests**: Healthcare, Open research/Open data, and Education.
 
-🎓 **Currently**: A scholar in the MIT Emerging 
-Talent Program.
+🎓 **Currently**: A scolar in the MIT Emerging Talent Program.
 
 ---
+
 ### 🌟 Fun Facts
+
 📚 **Nerd Alert**: Hermit | Manga | Anime | Fantasy Novels | RPGs 🎮
 
 🐶 **Dog Lover**: Can’t resist those wagging tails!
@@ -24,7 +27,9 @@ Talent Program.
 🇫🇷 **Language Goals**: Slowly but surely improving my French.
 
 ---
+
 ### 🚀 Let’s Connect
+
 🌐 Website (up soon)
 
 [Linkedin](http://www.linkedin.com/in/tosan-okome-860105203)
