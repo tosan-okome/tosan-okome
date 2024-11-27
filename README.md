@@ -1,8 +1,6 @@
 <!--I am keeping the "!" for enthusiasm-->
 ## Hi there!  
 
-![Waving Hand Welcome]("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDB1OW9sanNxMWYwbWhlcjM0NnBhdHBnZDRzc2liM2J1ajY1eWlkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rjub7AIEIbXT0tzbr3/giphy.gif")
-
 <!--I needed more words than the markdown rule could permit-->
 ### I’m Tosan—a nurse by training, a data enthusiast by passion, and a lifelong learner at heart. 🩺📊
 
