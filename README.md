@@ -17,7 +17,7 @@ open-source issues in Africa.
 
 💡 **Interests**: Healthcare, Open research/Open data, and Education.
 
-🎓 **Currently**: A scolar in the MIT Emerging Talent Program.
+🎓 **Currently**: A scholar in the MIT Emerging Talent Program.
 
 ---
 
