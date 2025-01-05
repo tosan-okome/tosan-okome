@@ -14,7 +14,7 @@ learner at heart. 🩺📊
 🤝🏾 **Open Source Advocate**: Leads CHAOSS Africa Researchers, tackling
 open-source issues in Africa.
 
-💡 **Interests**: Healthcare, Open research/Open data, and Education.
+💡 **Interests**: Healthcare, Research, Open Science.
 
 🎓 **Currently**: A scholar in the MIT Emerging Talent Program.
 
@@ -34,6 +34,6 @@ open-source issues in Africa.
 
 ### 🚀 Let’s Connect
 
-🌐 Website (up soon)
+[Website](https://tosan-okome.github.io/the_data_nurse/)
 
 [Linkedin](http://www.linkedin.com/in/tosan-okome-860105203)
