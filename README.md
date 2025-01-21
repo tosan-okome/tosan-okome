@@ -14,7 +14,7 @@ learner at heart. 🩺📊
 🤝🏾 **Open Source Advocate**: Leads CHAOSS Africa Researchers, tackling
 open-source issues in Africa.
 
-💡 **Interests**: Healthcare, Research, Open Science.
+💡 **Interests**: Healthcare, Research, Open Science, Open Source.
 
 🎓 **Currently**: A scholar in the MIT Emerging Talent Program.
 
