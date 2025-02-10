@@ -16,8 +16,6 @@ open-source issues in Africa.
 
 💡 **Interests**: Healthcare, Research, Open Science, Open Source.
 
-🎓 **Currently**: A scholar in the MIT Emerging Talent Program.
-
 ---
 
 ### 🌟 Fun Facts
